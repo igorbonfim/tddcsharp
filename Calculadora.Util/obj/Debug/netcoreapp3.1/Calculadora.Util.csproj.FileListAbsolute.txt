@@ -1,0 +1,4 @@
+C:\Projetos\Calculadora\Calculadora.Util\obj\Debug\netcoreapp3.1\Calculadora.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Calculadora\Calculadora.Util\obj\Debug\netcoreapp3.1\Calculadora.Util.AssemblyInfoInputs.cache
+C:\Projetos\Calculadora\Calculadora.Util\obj\Debug\netcoreapp3.1\Calculadora.Util.AssemblyInfo.cs
+C:\Projetos\Calculadora\Calculadora.Util\obj\Debug\netcoreapp3.1\Calculadora.Util.csproj.CoreCompileInputs.cache
