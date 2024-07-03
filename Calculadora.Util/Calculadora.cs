@@ -18,7 +18,7 @@ public class Calculadora
     {
         if ((a < _limiteMinimo) || (b < _limiteMinimo))
         {
-            throw new ArgumentException("O argumento está abaixo do limite mínimo");
+            throw new ArgumentOutOfRangeException("O argumento está abaixo do limite mínimo");
         }
         return a + b;
     }
@@ -27,7 +27,7 @@ public class Calculadora
     {
         if ((a < _limiteMinimo) || (b < _limiteMinimo))
         {
-            throw new ArgumentException("O argumento está abaixo do limite mínimo");
+            throw new ArgumentOutOfRangeException("O argumento está abaixo do limite mínimo");
         }
         return a - b;
     }
