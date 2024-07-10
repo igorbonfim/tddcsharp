@@ -37,7 +37,7 @@ public class Calculadora
         throw new NotImplementedException();
     }
     
-    public int Dividr(int a, int b)
+    public int Dividir(int a, int b)
     {
         throw new NotImplementedException();
     }

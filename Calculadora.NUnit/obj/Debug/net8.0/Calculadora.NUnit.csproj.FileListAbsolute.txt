@@ -1,0 +1,16 @@
+C:\Projetos\Calculadora\Calculadora.NUnit\bin\Debug\net8.0\Calculadora.NUnit.deps.json
+C:\Projetos\Calculadora\Calculadora.NUnit\bin\Debug\net8.0\Calculadora.NUnit.dll
+C:\Projetos\Calculadora\Calculadora.NUnit\bin\Debug\net8.0\Calculadora.NUnit.pdb
+C:\Projetos\Calculadora\Calculadora.NUnit\bin\Debug\net8.0\Calculadora.Util.dll
+C:\Projetos\Calculadora\Calculadora.NUnit\bin\Debug\net8.0\Calculadora.Util.pdb
+C:\Projetos\Calculadora\Calculadora.NUnit\obj\Debug\net8.0\Calculadora.NUnit.csproj.AssemblyReference.cache
+C:\Projetos\Calculadora\Calculadora.NUnit\obj\Debug\net8.0\Calculadora.NUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Calculadora\Calculadora.NUnit\obj\Debug\net8.0\Calculadora.NUnit.AssemblyInfoInputs.cache
+C:\Projetos\Calculadora\Calculadora.NUnit\obj\Debug\net8.0\Calculadora.NUnit.AssemblyInfo.cs
+C:\Projetos\Calculadora\Calculadora.NUnit\obj\Debug\net8.0\Calculadora.NUnit.csproj.CoreCompileInputs.cache
+C:\Projetos\Calculadora\Calculadora.NUnit\obj\Debug\net8.0\Calculadora.NUnit.sourcelink.json
+C:\Projetos\Calculadora\Calculadora.NUnit\obj\Debug\net8.0\Calculadora.NUnit.csproj.CopyComplete
+C:\Projetos\Calculadora\Calculadora.NUnit\obj\Debug\net8.0\Calculadora.NUnit.dll
+C:\Projetos\Calculadora\Calculadora.NUnit\obj\Debug\net8.0\refint\Calculadora.NUnit.dll
+C:\Projetos\Calculadora\Calculadora.NUnit\obj\Debug\net8.0\Calculadora.NUnit.pdb
+C:\Projetos\Calculadora\Calculadora.NUnit\obj\Debug\net8.0\ref\Calculadora.NUnit.dll

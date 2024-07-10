@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ezx+3QhS0xkTRv64N7UmX7waTqqkdBwBRLhtRS6yYtj9TEQ9O8Hy5KZ7BKMDT+IKcfmQY3B9+m5TU08upawOKw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Calculadora\\Calculadora.NUnit\\Calculadora.NUnit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igorj\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
